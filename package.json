@@ -1,6 +1,6 @@
 {
   "name": "meghan_maloy",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Contact info for Meghan Maloy",
   "main": "cli.js",
   "dependencies": {
