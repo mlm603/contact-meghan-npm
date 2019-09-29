@@ -1,6 +1,6 @@
 {
   "name": "meghan_maloy",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Contact info for Meghan Maloy",
   "main": "cli.js",
   "dependencies": {
@@ -13,6 +13,6 @@
   "author": "Meghan Maloy <meghanmaloy@gmail.com>",
   "license": "ISC",
   "bin": {
-    "contact-meghan": "./cli.js"
+    "contact-meghan": "cli.js"
   }
 }
