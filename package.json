@@ -1,0 +1,18 @@
+{
+  "name": "meghan_maloy",
+  "version": "1.0.0",
+  "description": "Contact info for Meghan Maloy",
+  "main": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "contact-meghan"
+  },
+  "author": "Meghan Maloy <meghanmaloy@gmail.com>",
+  "license": "ISC",
+  "bin": {
+    "contact-meghan": "./cli.js"
+  },
+  "dependencies": {
+    "open": "^6.4.0"
+  }
+}
