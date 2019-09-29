@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 var fs=require('fs');
 var open = require('open');
-var data=fs.readFileSync('contact_info.json', 'utf8');
+var data=fs.readFileSync('./contact_info.json', 'utf8');
 var data=JSON.parse(data);
 
 const [,, ...args] = process.argv
