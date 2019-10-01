@@ -12,7 +12,7 @@ To replicate:
 	- after the license, add
 		```
 		"bin": {
-		    "[your-CLI-command]": "./cli.js"
+		    "[your-CLI-command]": "cli.js"
 		  },
 		```
 4. Test in virtual environment using `npm install [/path/to/directory]`
