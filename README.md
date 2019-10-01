@@ -17,3 +17,5 @@ To replicate:
 		```
 4. Test in virtual environment using `npm install [/path/to/directory]`
 5. npm publish
+
+![](contact-meghan.gif)
